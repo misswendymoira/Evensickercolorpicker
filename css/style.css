@@ -1,0 +1,41 @@
+.color-block {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .color-selector {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  #selectorDropdown{
+      border-radius: 5px;
+      border: 2px #686868 solid;
+      color: #686868;
+      width: 50%;
+  }
+  
+  /* #a1 {
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #a2 {
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #a3 {
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #a4 {
+    border: none;
+    border-radius: 5px;
+  } */
